@@ -1,0 +1,28 @@
+body {
+    
+    color: #005a8d;
+    text-align: center;
+}
+#buttons {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.numbers-row {
+    width: 40vh;
+    height: 10vh;
+    display: flex;
+}
+button {
+    background-color: #00395a;
+    color: white;
+    width: 100%;
+    height: auto;
+    border: none;
+    border-radius: 10%;
+    margin: 1px;
+}
+
+#operations {
+    display: block;
+}
